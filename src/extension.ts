@@ -41,7 +41,7 @@ export function activate(context: vscode.ExtensionContext) {
 				var path:string = "";
 				// delete filteredarr[0];
 				for (let x of filteredarr){
-					console.log(x);
+					// console.log(x);
 					if (path === ""){
 						path = path.concat(x.toString());
 					} else {

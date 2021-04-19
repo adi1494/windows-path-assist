@@ -1,5 +1,6 @@
 {
   "name": "windows-path-assist",
+  "publisher": "adityaverma",
   "displayName": "windows-path-assist",
   "description": "formatted path",
   "version": "0.0.1",
